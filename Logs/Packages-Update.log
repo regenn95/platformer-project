@@ -1,0 +1,24 @@
+
+=== Wed Nov  6 14:49:25 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.modules.ai@1.0.0
+  com.unity.modules.androidjni@1.0.0
+  com.unity.modules.cloth@1.0.0
+  com.unity.modules.screencapture@1.0.0
+  com.unity.modules.terrain@1.0.0
+  com.unity.modules.terrainphysics@1.0.0
+  com.unity.modules.uielements@1.0.0
+  com.unity.modules.umbra@1.0.0
+  com.unity.modules.unityanalytics@1.0.0
+  com.unity.modules.vehicles@1.0.0
+  com.unity.modules.wind@1.0.0
+The following packages were updated:
+  com.unity.cinemachine from version 2.9.5 to 2.10.1
+  com.unity.collab-proxy from version 2.2.0 to 2.5.2
+  com.unity.render-pipelines.universal from version 14.0.7 to 14.0.11
+  com.unity.textmeshpro from version 3.0.6 to 3.0.7
+  com.unity.visualscripting from version 1.9.1 to 1.9.4
